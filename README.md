@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwarupAusarkar
 - 👀 I’m interested in App and Game development 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter and python
 
 <!---
 SwarupAusarkar/SwarupAusarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,16 +29,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarupAusarkar&theme=tokyonight"/>
 </p
 
-<!-- ---
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarupAusarkar&theme=react-dark&hide_border=true"/>
-</p>
-
---- -->
-
 ### 📫 Let's Connect!
 
 <p align="center">

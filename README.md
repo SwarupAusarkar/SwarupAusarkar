@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **TBD**
+- 🔭 I’m currently working on **URL shortener using FAST api**
 - 🌱 I’m currently learning **Python (AI & ML), Flutter (Dart), and Godot**
 - 👀 I’m mostly interested in **App and Game Development**
 - 🎯 My Goal: Build applications and keep learning

@@ -18,7 +18,7 @@
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,fastapi,java,mysql,sqlite,html,css,js,github,godot,vscode,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,fastapi,java,sqlite,html,css,js,github,godot,vscode,&theme=dark"/>
 </p>
 
 ---

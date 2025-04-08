@@ -25,7 +25,9 @@
 
 ### 🏆 GitHub Stats
 
-[![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarupAusarkar)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarupAusarkar&theme=tokyonight"/>
+</p
 
 ### 📫 Let's Connect!
 
@@ -40,6 +42,6 @@
 <p align="center">✨ "Every bug is an opportunity to learn." ✨</p>
 
 <!---
-SwarupAusarkar/SwarupAusarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SwarupAusarkar/SwarupAusarkar is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

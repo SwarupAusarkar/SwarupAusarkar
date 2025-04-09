@@ -25,7 +25,9 @@
 
 ### 🏆 GitHub Stats
 
-[![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarupAusarkar)](https://github.com/anuraghazra/github-readme-stats)</p
+<p align="center">
+![SwarupAusarkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SwarupAusarkar&theme=tokyonight&hide_border=true)
+</p>
 
 ### 📫 Let's Connect!
 

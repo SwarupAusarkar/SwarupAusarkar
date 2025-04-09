@@ -26,7 +26,7 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarupAusarkar&theme=tokyonight"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarupAusarkar)](https://github.com/anuraghazra/github-readme-stats)
 </p
 
 ### 📫 Let's Connect!

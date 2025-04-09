@@ -25,9 +25,7 @@
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarupAusarkar)](https://github.com/anuraghazra/github-readme-stats)
-</p
+[![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwarupAusarkar)](https://github.com/anuraghazra/github-readme-stats)</p
 
 ### 📫 Let's Connect!
 

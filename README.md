@@ -25,10 +25,8 @@
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-1xjb111t6.vercel.app?user=SwarupAusarkar&theme=youtube-dark&exclude_days=Sun" alt="GitHub Streak"/>
-  </a>
+<p align=center>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
 
 ### 📫 Let's Connect!

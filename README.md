@@ -26,7 +26,9 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarupAusarkar&theme=tokyonight&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-1xjb111t6.vercel.app?user=SwarupAusarkar&theme=youtube-dark&exclude_days=Sun" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ### 📫 Let's Connect!

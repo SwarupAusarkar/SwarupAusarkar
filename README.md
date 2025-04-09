@@ -18,7 +18,7 @@
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,fastapi,java,sqlite,html,css,js,github,godot,vscode,&theme=dark"/>
+  [![GitHub Streak](https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=youtube-dark&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
 </p>
 
 ---

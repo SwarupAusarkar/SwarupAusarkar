@@ -18,7 +18,7 @@
 ### ⚡ Tech Stack
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=youtube-dark&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
+  <img src="[![GitHub Streak](https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=youtube-dark&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)"/>
 </p>
 
 ---

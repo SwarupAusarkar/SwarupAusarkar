@@ -35,7 +35,7 @@
 ### 🏆 GitHub Stats
 
 <p align=center>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-sandy.vercel.app?user=SwarupAusarkar&theme=flag-india" alt="GitHub Streak" /></a>
 </p>
 
 ### 📫 Let's Connect!

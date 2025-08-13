@@ -8,8 +8,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **URL shortener using FAST API**
-- 🌱 I’m currently learning **Python (Backend and AI/ML), Flutter (Dart), and Godot**
+- 🔭 I’m currently working on **ResQFinder, a emergency location based resource locator**
+- 🌱 I’m currently learning **Python (Backend and AI/ML) and Flutter (Dart)**
 - 👀 I’m mostly interested in **App and Game Development**
 - 🎯 My Goal: Build applications and keep learning
 
